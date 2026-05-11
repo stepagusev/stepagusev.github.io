@@ -1,0 +1,19 @@
+---
+title: 2-ая неделя
+subtitle: Что произошло?
+summary: Ничего
+projects: []
+date: '2026-03-28T00:00:00Z'
+lastmod: '2026-03-28T00:00:00Z'
+draft: false
+featured: false
+authors:
+  - admin
+tags:
+  - Учёба
+  - Неделя
+categories:
+  - блог
+---
+
+Бью баклуши
